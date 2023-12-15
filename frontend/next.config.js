@@ -14,6 +14,7 @@ const nextConfig = {
         hostname: 'images.pexels.com',
       }
     ],
+    domains: ['localhost', "diplomatic-candy-34c04b78cb.media.strapiapp.com"],
   },
 }
 
